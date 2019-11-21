@@ -7,6 +7,8 @@ Script.
 2. *Formula Functions:* Functions that can be used in Google Sheets formulas.
 3. *Class Constructor Functions:* An "Enum" class.
 
+[More](docs/index.html)
+
 ## Disclaimer
 
 Google Apps Script is a subset of JavaScript 1.6.  Some features of JS 1.6 (such as
